@@ -7,11 +7,9 @@
 
     <platform name="android">
 
-        <!--
         <edit-config file="AndroidManifest.xml" target="/manifest/application" mode="merge">
             <application android:largeHeap="true" />
         </edit-config>
-        -->
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <activity android:name="com.example.plugin2.ActivityY" />
