@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-2",
+  "version": "0.0.1",
+  "description": "Cordova Test Plugin 2",
+  "cordova": {
+    "id": "cordova-plugin-2",
+    "platforms": [
+      "android"
+    ]
+  }
+}
